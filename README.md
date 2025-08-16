@@ -5,6 +5,7 @@ Este repositório apresenta a minha resolução para o teste técnico proposto p
 O desafio era composto por uma parte de lógica, uma de comunicação e uma parte prática opcional. Para demonstrar minhas habilidades nas tecnologias que tenho estudado, escolhi as seguintes abordagens para as soluções:
 
   * **Parte 1 (Lógica):** O problema "Números Únicos" foi resolvido com um programa em **Java**.
+  * **Parte 2 (Comunicação Técnica):** https://youtu.be/g945x2AlwAA?si=XLkZP1XyITx3Qdya
   * **Parte 3 (Desenvolvimento Prático):** A aplicação de "Inscrição em Evento" foi desenvolvida com a biblioteca **React**.
 
 ## Visão Geral
